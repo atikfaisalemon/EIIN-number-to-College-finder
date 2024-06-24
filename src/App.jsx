@@ -11,9 +11,13 @@ function App() {
   }
 
   function searchCollege() {
-    const singleCollege = collegeInfo.find((item) => item["EIIN No"] === eiin);
+    const singleCollege = collegeInfo.find((item) => item["EIIN No"] == eiin);
     setColege(singleCollege);
   }
+
+  const locationArr = college && college["Location"]?.split(" ");
+  const distric = locationArr?.length > 1 && locationArr[0];
+  const thana = locationArr?.length > 1 && locationArr?.slice(1).join(" ");
 
   return (
     <>
@@ -45,15 +49,23 @@ function App() {
                   College Name:
                 </label>
                 <p id="college-name" className="mt-1 text-gray-900 font-bold">
-                  {college && college["College Name"]}
+                  {(college && college["College Name"]) || college["Name"]}
                 </p>
               </div>
               <div className="mt-4">
                 <label className="block text-sm font-medium text-gray-700">
-                  Location:
+                  DISTRICT:
                 </label>
                 <p id="location" className="mt-1 text-gray-900 ">
-                  {college && college["Location"]}
+                  {distric}
+                </p>
+              </div>
+              <div className="mt-4">
+                <label className="block text-sm font-medium text-gray-700">
+                  THANA:
+                </label>
+                <p id="location" className="mt-1 text-gray-900 ">
+                  {thana}
                 </p>
               </div>
             </div>
@@ -71,7 +83,7 @@ function App() {
           </div>
         </div>
         <div className="flex justify-center mt-4">
-          <p className="text-red-400">
+          <p className="text-red-400 animate-pulse">
             Ony For <span className="text-green-400 font-bold">RAJSHAHI</span>{" "}
             Board For Now
           </p>
