@@ -4,7 +4,8 @@ import collegeInfo from "./assets/data.json";
 
 function App() {
   const [eiin, setEiin] = useState("");
-  const [college, setColege] = useState({});
+  const [college, setColege] = useState();
+  const [isEmpty, setIsEmpty] = useState(false);
 
   function handleChange(e) {
     setEiin(e.target.value);
@@ -12,6 +13,7 @@ function App() {
 
   function searchCollege() {
     const singleCollege = collegeInfo.find((item) => item["EIIN No"] == eiin);
+    !singleCollege ? setIsEmpty(true) : setIsEmpty(false);
     setColege(singleCollege);
   }
 
@@ -42,7 +44,7 @@ function App() {
             />
           </div>
 
-          {true && (
+          {college && (
             <div id="college-info" className="">
               <div>
                 <label className="block text-sm font-medium text-gray-700">
@@ -70,6 +72,8 @@ function App() {
               </div>
             </div>
           )}
+
+          {isEmpty ? <p>No result found</p> : null}
 
           <div className="mt-6">
             <button
