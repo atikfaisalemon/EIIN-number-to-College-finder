@@ -3405,11 +3405,6 @@
     "Location": "Sirajganj Ullah Para"
   },
   {
-    "EIIN No": "130994",
-    "College Name": "KARATOA MULTIMIDIA SCHOOL & COLLEGE",
-    "Location": "Bogra Sadar"
-  },
-  {
     "EIIN No": "131895",
     "College Name": "AGRADIGUN COLLEGE",
     "Location": "Naogaon, Dhamoirhat"
@@ -3873,5 +3868,50 @@
     "EIIN No": "138182",
     "College Name": "SHERKOLE ADARSHA COLLEGE",
     "Location": "Natore, Singra"
+  },
+  {
+    "EIIN No": 130608,
+    "Name": "BIAM LABORATORY SCHOOL & COLLEGE",
+    "Location": "Naogaon Atrai"
+  },
+  {
+    "EIIN No": 130961,
+    "Name": "SUMMIT SCHOOL AND COLLEGE",
+    "Location": "Bogra Sherpur"
+  },
+  {
+    "EIIN No": 130994,
+    "Name": "KARATOA MULTIMEDIA SCHOOL AND COLLEGE",
+    "Location": "Bogra Bogra Sadar"
+  },
+  {
+    "EIIN No": 130998,
+    "Name": "BOGRA YMCA PUBLIC SCHOOL & COLLEGE",
+    "Location": "Bogra Bogra Sadar"
+  },
+  {
+    "EIIN No": 131045,
+    "Name": "BIAM LABORATORY SCHOOL & COLLEGE BOGRA",
+    "Location": "Bogra Bogra Sadar"
+  },
+  {
+    "EIIN No": 131057,
+    "Name": "SHAHID DULAL PILOT GIRLS’ HIGH SCHOOL & COLLEGE",
+    "Location": "Pabna Sujanagar"
+  },
+  {
+    "EIIN No": 131883,
+    "Name": "MUKTIJODDHA DOCTOR MOHSIN ALI COLLEGE",
+    "Location": "Natore Gurudaspur"
+  },
+  {
+    "EIIN No": 131884,
+    "Name": "DASGRAM ADARSHA COLLEGE",
+    "Location": "Natore Baraigram"
+  },
+  {
+    "EIIN No": 131887,
+    "Name": "CHANDAI COLLEGE",
+    "Location": "Natore Baraigram"
   }
 ]

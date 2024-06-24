@@ -32,7 +32,7 @@ function App() {
               id="eiin"
               name="eiin"
               placeholder="EIIN-NUMBER"
-              className="mt-1 block w-full md:w-1/2 py-2 rounded-md shadow-sm sm:text-sm"
+              className="mt-1 block w-full  py-2 rounded-md shadow-sm sm:text-sm"
               value={eiin}
               onChange={handleChange}
             />
@@ -66,9 +66,15 @@ function App() {
               className="w-full bg-indigo-600 text-white py-2 px-4 rounded-md hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-opacity-50"
               onClick={searchCollege}
             >
-              TISHIN
+              Find College
             </button>
           </div>
+        </div>
+        <div className="flex justify-center mt-4">
+          <p className="text-red-400">
+            Ony For <span className="text-green-400 font-bold">RAJSHAHI</span>{" "}
+            Board For Now
+          </p>
         </div>
       </body>
     </>
