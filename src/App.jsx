@@ -3,9 +3,17 @@ import "./App.css";
 import collegeInfo from "./assets/data.json";
 
 function App() {
-  const [data, setData] = useState(0);
+  const [eiin, setEiin] = useState("");
+  const [college, setColege] = useState({});
 
-  console.log("collegeInfo", collegeInfo);
+  function handleChange(e) {
+    setEiin(e.target.value);
+  }
+
+  function searchCollege() {
+    const singleCollege = collegeInfo.find((item) => item["EIIN No"] === eiin);
+    setColege(singleCollege);
+  }
 
   return (
     <>
@@ -25,17 +33,19 @@ function App() {
               name="eiin"
               placeholder="EIIN-NUMBER"
               className="mt-1 block w-full md:w-1/2 py-2 rounded-md shadow-sm sm:text-sm"
+              value={eiin}
+              onChange={handleChange}
             />
           </div>
 
-          {false && (
+          {true && (
             <div id="college-info" className="">
               <div>
                 <label className="block text-sm font-medium text-gray-700">
                   College Name:
                 </label>
                 <p id="college-name" className="mt-1 text-gray-900 font-bold">
-                  Karatoa
+                  {college && college["College Name"]}
                 </p>
               </div>
               <div className="mt-4">
@@ -43,7 +53,7 @@ function App() {
                   Location:
                 </label>
                 <p id="location" className="mt-1 text-gray-900 ">
-                  Dhaka
+                  {college && college["Location"]}
                 </p>
               </div>
             </div>
@@ -54,6 +64,7 @@ function App() {
               id="lookup-btn"
               type="button"
               className="w-full bg-indigo-600 text-white py-2 px-4 rounded-md hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-opacity-50"
+              onClick={searchCollege}
             >
               Lookup
             </button>
