@@ -3913,5 +3913,515 @@
     "EIIN No": 131887,
     "Name": "CHANDAI COLLEGE",
     "Location": "Natore Baraigram"
+  },
+  {
+    "EIIN No": 107823,
+    "College Name": "Kurmitola High School And College",
+    "Location": "Dhaka Khilkhat"
+  },
+  {
+    "EIIN No": 107841,
+    "College Name": "Badda Alatunnessa Uchcha Madhyamic Bidhyalaya",
+    "Location": "Dhaka Gulshan"
+  },
+  {
+    "EIIN No": 107845,
+    "College Name": "Uttara Girls High School And College",
+    "Location": "Dhaka Uttara"
+  },
+  {
+    "EIIN No": 107854,
+    "College Name": "B. N. College Dhaka Cantt.",
+    "Location": "Dhaka Cantonment"
+  },
+  {
+    "EIIN No": 107855,
+    "College Name": "Adamjee Cantonment College",
+    "Location": "Dhaka Cantonment"
+  },
+  {
+    "EIIN No": 107857,
+    "College Name": "Shaheed Ramiz Uddin Cantonment College",
+    "Location": "Dhaka Cantonment"
+  },
+  {
+    "EIIN No": 107858,
+    "College Name": "B. A. F. Shaheen College Tejgaon",
+    "Location": "Dhaka Tejgaon"
+  },
+  {
+    "EIIN No": 107859,
+    "College Name": "B. A. F. Shaheen College (Kurmitola)",
+    "Location": "Dhaka Cantonment"
+  },
+  {
+    "EIIN No": 107863,
+    "College Name": "Salah Uddin Ahmed Adarsha School And College",
+    "Location": "Dhaka Jatrabari"
+  },
+  {
+    "EIIN No": 107877,
+    "College Name": "Jatrabari Ideal High School And College",
+    "Location": "Dhaka Jatrabari"
+  },
+  {
+    "EIIN No": 107886,
+    "College Name": "Mannan High School And College",
+    "Location": "Dhaka Demra"
+  },
+  {
+    "EIIN No": 107908,
+    "College Name": "Demra College",
+    "Location": "Dhaka Demra"
+  },
+  {
+    "EIIN No": 107909,
+    "College Name": "Dania College",
+    "Location": "Dhaka Jatrabari"
+  },
+  {
+    "EIIN No": 107910,
+    "College Name": "R. K. Chowdhury College",
+    "Location": "Dhaka Demra"
+  },
+  {
+    "EIIN No": 107911,
+    "College Name": "Matuail Haji Abdul Latif Bhuiyan College",
+    "Location": "Dhaka Demra"
+  },
+  {
+    "EIIN No": 107912,
+    "College Name": "Rokeya Ahsan College",
+    "Location": "Dhaka Demra"
+  },
+  {
+    "EIIN No": 107913,
+    "College Name": "Rongmala Akbar Mohila College",
+    "Location": "Dhaka Demra"
+  },
+  {
+    "EIIN No": 107914,
+    "College Name": "Barnamala Uchcha Madhyamik Bidyalaya",
+    "Location": "Dhaka Demra"
+  },
+  {
+    "EIIN No": 107915,
+    "College Name": "Shamsul Hoque Khan School And College",
+    "Location": "Dhaka Demra"
+  },
+  {
+    "EIIN No": 107916,
+    "College Name": "Shahid Zia Girls School And College Jatrabari",
+    "Location": "Dhaka Demra"
+  },
+  {
+    "EIIN No": 107919,
+    "College Name": "Dhamrai Hardinge High School And College",
+    "Location": "Dhaka Dhamrai"
+  },
+  {
+    "EIIN No": 107953,
+    "College Name": "Govt. Dhamrai College",
+    "Location": "Dhaka Dhamrai"
+  },
+  {
+    "EIIN No": 107954,
+    "College Name": "Nabajug College",
+    "Location": "Dhaka Dhamrai"
+  },
+  {
+    "EIIN No": 107955,
+    "College Name": "Bhalum Ataur Rahman Khan College",
+    "Location": "Dhaka Dhamrai"
+  },
+  {
+    "EIIN No": 107959,
+    "College Name": "Afazuddin School And College",
+    "Location": "Dhaka Dhamrai"
+  },
+  {
+    "EIIN No": 107962,
+    "College Name": "Government Laboratory High School",
+    "Location": "Dhaka Dhanmondi"
+  },
+  {
+    "EIIN No": 107963,
+    "College Name": "Kakoli High School And College",
+    "Location": "Dhaka Dhanmondi"
+  },
+  {
+    "EIIN No": 107971,
+    "College Name": "Ideal College",
+    "Location": "Dhaka Dhanmondi"
+  },
+  {
+    "EIIN No": 107972,
+    "College Name": "Dr. Maleka College",
+    "Location": "Dhaka Dhanmondi"
+  },
+  {
+    "EIIN No": 107973,
+    "College Name": "Stamford College",
+    "Location": "Dhaka Dhanmondi"
+  },
+  {
+    "EIIN No": 107974,
+    "College Name": "Dhaka Imperial College",
+    "Location": "Dhaka Badda"
+  },
+  {
+    "EIIN No": 107975,
+    "College Name": "Dhaka City College",
+    "Location": "Dhaka Dhanmondi"
+  },
+  {
+    "EIIN No": 107976,
+    "College Name": "University Women S Federation College",
+    "Location": "Dhaka Dhanmondi"
+  },
+  {
+    "EIIN No": 107977,
+    "College Name": "Dhaka College",
+    "Location": "Dhaka Dhanmondi"
+  },
+  {
+    "EIIN No": 107979,
+    "College Name": "Dhaka Presidency College",
+    "Location": "Dhaka Dhanmondi"
+  },
+  {
+    "EIIN No": 107980,
+    "College Name": "Dhaka Mohila College",
+    "Location": "Dhaka Dhanmondi"
+  },
+  {
+    "EIIN No": 107981,
+    "College Name": "Dhaka State College",
+    "Location": "Dhaka Mohammadpur"
+  },
+  {
+    "EIIN No": 107983,
+    "College Name": "Zarina Sikder Girls School And College",
+    "Location": "Dhaka Dhanmondi"
+  },
+  {
+    "EIIN No": 107984,
+    "College Name": "Ywca Higher Secondary Girls School",
+    "Location": "Dhaka Dhanmondi"
+  },
+  {
+    "EIIN No": 107985,
+    "College Name": "Meherunnesa Girls High School And College",
+    "Location": "Dhaka Dhanmondi"
+  },
+  {
+    "EIIN No": 107994,
+    "College Name": "Begum Ayesha Pilot Girl S High School And College",
+    "Location": "Dhaka Dohar"
+  },
+  {
+    "EIIN No": 108009,
+    "College Name": "Padma College",
+    "Location": "Dhaka Dohar"
+  },
+  {
+    "EIIN No": 108010,
+    "College Name": "Joypara College",
+    "Location": "Dhaka Dohar"
+  },
+  {
+    "EIIN No": 108011,
+    "College Name": "Malikanda Meghula School And College",
+    "Location": "Dhaka Dohar"
+  },
+  {
+    "EIIN No": 108016,
+    "College Name": "Banani Bidyaniketan School And College",
+    "Location": "Dhaka Gulshan"
+  },
+  {
+    "EIIN No": 108021,
+    "College Name": "Satarkul School And College",
+    "Location": "Dhaka Badda"
+  },
+  {
+    "EIIN No": 108023,
+    "College Name": "I. P. H. School And College",
+    "Location": "Dhaka Gulshan"
+  },
+  {
+    "EIIN No": 108031,
+    "College Name": "A. K. M. Rahmatullah College",
+    "Location": "Dhaka Gulshan"
+  },
+  {
+    "EIIN No": 108032,
+    "College Name": "Gulshan College",
+    "Location": "Dhaka Gulshan"
+  },
+  {
+    "EIIN No": 108033,
+    "College Name": "Mahanagar College",
+    "Location": "Dhaka Gulshan"
+  },
+  {
+    "EIIN No": 108034,
+    "College Name": "Rampura Ekramunnesa College",
+    "Location": "Dhaka Gulshan"
+  },
+  {
+    "EIIN No": 108036,
+    "College Name": "T And T Mohila College",
+    "Location": "Dhaka Gulshan"
+  },
+  {
+    "EIIN No": 108037,
+    "College Name": "Gulshan Model Uccha Maddhyamik Biddalya",
+    "Location": "Dhaka Gulshan"
+  },
+  {
+    "EIIN No": 108038,
+    "College Name": "Govt. Kalachandpur Uchcha Madyamic Bidyalaya",
+    "Location": "Dhaka Gulshan"
+  },
+  {
+    "EIIN No": 108040,
+    "College Name": "South Point College",
+    "Location": "Dhaka Gulshan"
+  },
+  {
+    "EIIN No": 108057,
+    "College Name": "Haji Abdul Awal College",
+    "Location": "Dhaka Kamrangir Char"
+  },
+  {
+    "EIIN No": 108061,
+    "College Name": "Khilgaon Govt. Colony Higher Secondary School",
+    "Location": "Dhaka Khilgaon"
+  },
+  {
+    "EIIN No": 108074,
+    "College Name": "Nutan Bakter Char School And College",
+    "Location": "Dhaka Keraniganj"
+  },
+  {
+    "EIIN No": 108085,
+    "College Name": "Ati Bhawal Uchcha Madhamik Bidyalaya",
+    "Location": "Dhaka Keraniganj"
+  },
+  {
+    "EIIN No": 108098,
+    "College Name": "Rajabari School And College",
+    "Location": "Dhaka Keraniganj"
+  },
+  {
+    "EIIN No": 108112,
+    "College Name": "Doleshwar Abdul Mannan Adarsha Mahabidyalaya",
+    "Location": "Dhaka Keraniganj"
+  },
+  {
+    "EIIN No": 108113,
+    "College Name": "Nayabazar College",
+    "Location": "Dhaka Keraniganj"
+  },
+  {
+    "EIIN No": 108114,
+    "College Name": "Shahid President Ziaur Rahman College",
+    "Location": "Dhaka Keraniganj"
+  },
+  {
+    "EIIN No": 108115,
+    "College Name": "Kalatia College",
+    "Location": "Dhaka Keraniganj"
+  },
+  {
+    "EIIN No": 108116,
+    "College Name": "Ramerkanda Ispahani College",
+    "Location": "Dhaka Keraniganj"
+  },
+  {
+    "EIIN No": 108117,
+    "College Name": "Keraniganj Mohila College",
+    "Location": "Dhaka Keraniganj"
+  },
+  {
+    "EIIN No": 108118,
+    "College Name": "Zinzira P. M. Pilot Higher Secondary School",
+    "Location": "Dhaka Keraniganj"
+  },
+  {
+    "EIIN No": 108119,
+    "College Name": "Borishur Anchalic Uchcha Madyamic Bidyalaya",
+    "Location": "Dhaka Keraniganj"
+  },
+  {
+    "EIIN No": 108120,
+    "College Name": "Baghapur Uccha Madyamic Biddalaya",
+    "Location": "Dhaka Keraniganj"
+  },
+  {
+    "EIIN No": 108121,
+    "College Name": "Keraniganj Girls School And College",
+    "Location": "Dhaka Keraniganj"
+  },
+  {
+    "EIIN No": 108137,
+    "College Name": "Sheikh Borhanuddin College",
+    "Location": "Dhaka Lalbagh"
+  },
+  {
+    "EIIN No": 108138,
+    "College Name": "Anwara Begum Muslim Girls School And College",
+    "Location": "Dhaka Lalbagh"
+  },
+  {
+    "EIIN No": 108139,
+    "College Name": "Ahmed Bawani Academy (Mohila College)",
+    "Location": "Dhaka Kotwali"
+  },
+  {
+    "EIIN No": 108146,
+    "College Name": "ENGINEERING UNIVERSITY GIRLS’ SCHOOL & COLLEGE",
+    "Location": "Dhaka Lalbagh"
+  },
+  {
+    "EIIN No": 108154,
+    "College Name": "Nabakumar Institution And Dr. Shahidullah College",
+    "Location": "Dhaka Lalbagh"
+  },
+  {
+    "EIIN No": 108155,
+    "College Name": "Begum Badrunnessa Govt. Girls College",
+    "Location": "Dhaka Lalbagh"
+  },
+  {
+    "EIIN No": 108156,
+    "College Name": "Haji Salim Degree College",
+    "Location": "Dhaka Lalbagh"
+  },
+  {
+    "EIIN No": 108158,
+    "College Name": "Home Economics College",
+    "Location": "Dhaka Lalbagh"
+  },
+  {
+    "EIIN No": 108161,
+    "College Name": "Birshreshtha Noor Mohammad Public College",
+    "Location": "Dhaka Lalbagh"
+  },
+  {
+    "EIIN No": 108162,
+    "College Name": "Bir Shreshtha Munshi Abdur Rouf Public College",
+    "Location": "Dhaka Dhanmondi"
+  },
+  {
+    "EIIN No": 108163,
+    "College Name": "Azimpur Govt. Girls School And College",
+    "Location": "Dhaka Lalbagh"
+  },
+  {
+    "EIIN No": 108164,
+    "College Name": "Agrani Girls School And College",
+    "Location": "Dhaka Lalbagh"
+  },
+  {
+    "EIIN No": 108165,
+    "College Name": "Saleha Uchcha Madhyamik Bidyalaya",
+    "Location": "Dhaka Lalbagh"
+  },
+  {
+    "EIIN No": 108166,
+    "College Name": "Nuton Paltan Line Uccha Madhyamic Bidyalaya",
+    "Location": "Dhaka Lalbagh"
+  },
+  {
+    "EIIN No": 108181,
+    "College Name": "Monipur Uccha Biddalaya And College",
+    "Location": "Dhaka Mirpur"
+  },
+  {
+    "EIIN No": 108188,
+    "College Name": "Mirpur Bangla Higher Secondary School",
+    "Location": "Dhaka Mirpur"
+  },
+  {
+    "EIIN No": 108193,
+    "College Name": "Kamarpara School And College",
+    "Location": "Dhaka Uttara"
+  },
+  {
+    "EIIN No": 108206,
+    "College Name": "Mirpur College",
+    "Location": "Dhaka Mirpur"
+  },
+  {
+    "EIIN No": 108207,
+    "College Name": "Dhaka Commerce College",
+    "Location": "Dhaka Mirpur"
+  },
+  {
+    "EIIN No": 108208,
+    "College Name": "Dhaka Modern College",
+    "Location": "Dhaka Mirpur"
+  },
+  {
+    "EIIN No": 108209,
+    "College Name": "Hazrat Shah Ali Girls School And College",
+    "Location": "Dhaka Mirpur"
+  },
+  {
+    "EIIN No": 108210,
+    "College Name": "Govt. Bangla College",
+    "Location": "Dhaka Mirpur"
+  },
+  {
+    "EIIN No": 108211,
+    "College Name": "Govt. Bangabandhu College",
+    "Location": "Dhaka Pallabi"
+  },
+  {
+    "EIIN No": 108212,
+    "College Name": "Sheikh Fazilatun Nessa Islamic Mohila College",
+    "Location": "Dhaka Mirpur"
+  },
+  {
+    "EIIN No": 108214,
+    "College Name": "Banophool Adibashi Green Heart College",
+    "Location": "Dhaka Mirpur"
+  },
+  {
+    "EIIN No": 108215,
+    "College Name": "S O S Hermann Gmeiner College",
+    "Location": "Dhaka Mirpur"
+  },
+  {
+    "EIIN No": 108216,
+    "College Name": "Rajdhani Mohila College",
+    "Location": "Dhaka Mirpur"
+  },
+  {
+    "EIIN No": 108217,
+    "College Name": "Bashiruddin Adarsha Uchcha Madhyamik Bidyalaya Mirpur",
+    "Location": "Dhaka Mirpur"
+  },
+  {
+    "EIIN No": 108218,
+    "College Name": "Kallyanpur Girls School And College",
+    "Location": "Dhaka Mirpur"
+  },
+  {
+    "EIIN No": 108221,
+    "College Name": "Mirpur Girls Ideal Laboratory Institute",
+    "Location": "Dhaka Mirpur"
+  },
+  {
+    "EIIN No": 108222,
+    "College Name": "B C I C College",
+    "Location": "Dhaka Mirpur"
+  },
+  {
+    "EIIN No": 108223,
+    "College Name": "Dhaka Shiksha Board Laboratory School And College",
+    "Location": "Dhaka Mirpur"
   }
 ]
